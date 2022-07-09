@@ -1,1 +1,1 @@
-# django_library
+# A simple library management app With Django rest framework part 2
